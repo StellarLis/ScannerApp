@@ -1,7 +1,7 @@
 # ScannerApp
 
 App that can scan QR-codes and Barcodes.
-Created using code-scanner library.
+Created using [code-scanner](https://github.com/yuriy-budiyev/code-scanner) library.
 
 ## Screenshot:
 
